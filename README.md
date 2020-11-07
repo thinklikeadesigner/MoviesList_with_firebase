@@ -1,21 +1,9 @@
 # flutter_app_database_ex
 
-A new Flutter application.
+A flutter application with Firebase realtime database as a backend. 
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+You can add and delete a list of movies
 
 
 Screen Shot 2020-11-07 at 12.22.52 PM.png
-
 ![mobile app screenshot](https://github.com/thinklikeadesigner/MoviesList_with_firebase/blob/main/Screen%20Shot%202020-11-07%20at%2012.22.52%20PM.png)
